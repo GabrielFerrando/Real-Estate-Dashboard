@@ -43,5 +43,10 @@ Você pode experimentar o dashboard diretamente pelo navegador:
 
 [Real Estate Dashboard](https://real-estate-dashboard.streamlit.app/)
 
+# 👨‍💻 Sobre o autor
+Olá! Meu nome é Gabriel Ferrando e sou um iniciante no mundo da Ciência de Dados. Este é um dos meus primeiros projetos práticos e foi desenvolvido com muito cuidado e aprendizado. Atualmente, estou explorando Machine Learning, Python e Streamlit.
 
+📫 [Meu GitHub](https://github.com/GabrielFerrando)
+
+💼 Em busca de oportunidades e aprendizado constante!
 
